@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zaferatakli
-- 👀 I’m interested in Software Automotion Testing
+- 👀 I’m interested in Software Automation Testing
 - 🌱 I’m currently learning Java,Testing Tools, Test Management, Automation & Manually Testing,
-- 💞️ I’m looking to collaborate on QA Engineers, QA Automation Engineers, Software Testers and Developers
+- 💞️ I’m looking to collaborate with QA Engineers, QA Automation Engineers, Software Testers and Developers
 - 📫 How to reach me ...
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Running, Climbing, 

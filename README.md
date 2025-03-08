@@ -1,8 +1,8 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=20&duration=3000&pause=2500&color=FFAA00&vCenter=true&font=monospace&lines=Zafer+Atakl%C4%B1;Software+QA+Automation+Engineer;Welcome+to+my+GitHub+profile!+%F0%9F%91%8B)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=20&duration=3000&pause=2500&color=FFAA00&vCenter=true&font=monospace&lines=Zafer+Atakli;Software+QA+Automation+Engineer;Welcome+to+my+GitHub+profile!+%F0%9F%91%8B)
 
 ---
 
-## 👋 Hi, I’m Zafer Ataklı
+## 👋 Hi, I’m Zafer Atakli
 - 👀 I’m interested in Software Industry, AI, and IT Technology.
 - 🌱 I’m currently learning the **Java programming language** and developing **Java projects** with my **10-person intern team**.
 - 🚀 Working with **Agile methodology**, gaining hands-on experience with **Sprint processes** as part of the software development lifecycle.

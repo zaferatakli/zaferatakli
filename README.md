@@ -1,6 +1,5 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=20&duration=3000&pause=2500&color=FFAA00&vCenter=true&font=monospace&lines=Zafer+Atakl%C4%B1;Software+QA+Automation+Engineer;Welcome+to+my+GitHub+profile!+%F0%9F%91%8B)
 
-![Banner](https://i.ibb.co/0jZQZ9Q/github-banner-zafer-atakli.png)
 ---
 
 ## 👋 Hi, I’m Zafer Ataklı

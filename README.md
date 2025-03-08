@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=34&duration=7000&color=F7DC6F&vCenter=true&lines=Zafer+Atakl%C4%B1;QA+Automation+Engineer+%7C+Software+Development+Engineer+in+Test+%7C+Software+Automation+Tester;Welcome+to+my+GitHub+profile!+%F0%9F%91%8B)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=F7DC6F&vCenter=true&lines=Zafer+Atakl%C4%B1;_+;Software+QA+Automation+Engineer;_+;Welcome+to+my+GitHub+profile!+%F0%9F%91%8B)
 
 ---
 

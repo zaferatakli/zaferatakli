@@ -1,10 +1,5 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=20&duration=3000&pause=2500&color=FFAA00&vCenter=true&font=monospace&lines=Zafer+Atakli;Software+QA+Automation+Engineer;Welcome+to+my+GitHub+profile!+%F0%9F%91%8B)
 
-
-
-![image](https://github.com/user-attachments/assets/ed7e3ee9-9171-44df-a274-4298bae45299)
-
-
 ---
 
 ## 👋 Hi, I’m Zafer Atakli
@@ -48,8 +43,8 @@
 ## 📈 My Learning Progress
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zaferatakli&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zaferatakli&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zaferatakli&show_icons=true&theme=radical" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zaferatakli&theme=radical" width="45%" />
 </p>
 
 <p align="center">

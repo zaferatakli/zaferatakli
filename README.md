@@ -4,7 +4,7 @@
 
 ## 👋 Hi, I’m Zafer Atakli
 - 👀 I’m interested in Software Industry, AI, and IT Technology.
-- 🌱 I’m currently learning the **Java programming language** and developing **Java projects** with my **10-person intern team**.
+- 🌱 I’m currently using the **Java programming language** and developing **Java projects** with my **10-person intern team**.
 - 🚀 Working with **Agile methodology**, gaining hands-on experience with **Sprint processes** as part of the software development lifecycle.
 - 🛠️ Actively engaging in **Test Management**, performing **manual testing** on prepared **User Stories**, and managing their reporting & tracking through **JIRA**.
 - 🤖 Enhancing my skills by learning **test automation tools** and conducting **automation testing**.

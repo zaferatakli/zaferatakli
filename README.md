@@ -2,15 +2,36 @@
 
 ---
 
-## 👋 Hi, I’m Zafer Atakli
-- 👀 I’m interested in Software Industry, AI, and IT Technology.
-- 🌱 I’m currently using the **Java programming language** and developing **Java projects** with my **10-person intern team**.
-- 🚀 Working with **Agile methodology**, gaining hands-on experience with **Sprint processes** as part of the software development lifecycle.
-- 🛠️ Actively engaging in **Test Management**, performing **manual testing** on prepared **User Stories**, and managing their reporting & tracking through **JIRA**.
-- 🤖 Enhancing my skills by learning **test automation tools** and conducting **automation testing**.
-- 🗄️ Gaining knowledge and experience in **MySQL database management**.
 
-💞️ I’m looking to collaborate with **QA Engineers, QA Automation Engineers, Software Testers, and Developers**.
+## 👋 Hi, I’m Zafer Atakli
+
+🎓 I graduated from **Eskişehir Anadolu University** with a degree in Web Design and Coding. With a long-standing passion for technology and software, I have gained hands-on experience in multiple sectors including **Industrial Electronics, Pharmaceutical Manufacturing, Education, and Finance**.
+
+💡 My background includes setting up, monitoring, testing, and commissioning automation systems. Through working on **PLC programming** and **BMS system design**, I developed a deep understanding of how hardware and software work together in real-world environments.
+
+🔧 My transition into the **Software Testing** field was driven by my growing interest in system reliability and quality assurance. I’m currently attending a **QA Bootcamp**, where I lead a **team of 8 interns** in weekly Agile-based projects.
+
+### 👨‍💻 Current Activities
+- 🌱 Building test automation frameworks using **Java, JUnit, TestNG, and Cucumber**  
+- 🚀 Leading Agile ceremonies: **Sprint Planning, Daily Scrums, and Sprint Reviews**  
+- 📝 Creating and managing **User Stories and Tasks** in **JIRA**  
+- 🔄 Managing repositories, reviewing **Pull Requests**, and collaborating via **GitHub**  
+- 🧪 Designing and executing **manual and automation test cases**  
+- 👥 Developing leadership and team coordination skills in a real-world project setting  
+- 💬 Working with **BDD (Behavior-Driven Development)** using Cucumber  
+- 🔍 Continuously improving previous projects by refactoring and enhancing code
+
+### 🛠️ Upcoming Focus Areas
+- API Testing with **Postman** and **Rest Assured**  
+- Database Testing using **MySQL** and **JDBC**  
+- CI/CD & Regression Testing using **Jenkins**  
+- Mobile Testing with **Appium**  
+- 📚 Preparing for the **ISTQB Foundation Level Certification**
+
+🤝 I’m open to collaborating with **QA Engineers, Automation Testers, Developers, and Mentors** in the field.  
+📈 Motivated by learning, improving, and contributing to software quality at every stage of development.
+
+---
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/zafer-atakli/)
 

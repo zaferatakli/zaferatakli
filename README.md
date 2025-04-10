@@ -13,12 +13,12 @@
 
 ### 👨‍💻 Current Activities
 - 🌱 Building test automation frameworks using **Java, JUnit, TestNG, and Cucumber**  
-- 🚀 Leading Agile ceremonies: **Sprint Planning, Daily Scrums, and Sprint Reviews**  
+- 🚀 Leading Agile ceremonies: **Sprint Planning, Daily Scrums, and Sprint Reviews, Retro**  
 - 📝 Creating and managing **User Stories and Tasks** in **JIRA**  
 - 🔄 Managing repositories, reviewing **Pull Requests**, and collaborating via **GitHub**  
 - 🧪 Designing and executing **manual and automation test cases**  
 - 👥 Developing leadership and team coordination skills in a real-world project setting  
-- 💬 Working with **BDD (Behavior-Driven Development)** using Cucumber  
+- 💬 Working with Selenium WebDriver for browser automation, using JUnit and TestNG as test frameworks, and implementing Behavior-Driven Development (BDD) with Cucumber 
 - 🔍 Continuously improving previous projects by refactoring and enhancing code
 
 ### 🛠️ Upcoming Focus Areas

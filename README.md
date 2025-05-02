@@ -20,10 +20,10 @@
 - 👥 Developing leadership and team coordination skills in a real-world project setting  
 - 💬 Working with Selenium WebDriver for browser automation, using JUnit and TestNG as test frameworks, and implementing Behavior-Driven Development (BDD) with Cucumber 
 - 🔍 Continuously improving previous projects by refactoring and enhancing code
+- 💻 Database Testing using **MySQL** and **JDBC**
 
 ### 🛠️ Upcoming Focus Areas
-- API Testing with **Postman** and **Rest Assured**  
-- Database Testing using **MySQL** and **JDBC**  
+- API Testing with **Postman** and **Rest Assured**    
 - CI/CD & Regression Testing using **Jenkins**  
 - Mobile Testing with **Appium**  
 - 📚 Preparing for the **ISTQB Foundation Level Certification**

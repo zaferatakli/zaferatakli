@@ -1,35 +1,57 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=20&duration=3000&pause=2500&color=FFAA00&vCenter=true&font=monospace&lines=Zafer+Atakli;QA+Automation+Test+Engineer;Welcome+to+my+GitHub+profile!+%F0%9F%91%8B)
 
 ---
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 
+---
 
 ## 👋 Hi, I’m Zafer Atakli
 
-🎓 I graduated from **Eskişehir Anadolu University** with a degree in Web Design and Coding. With a long-standing passion for technology and software, I have gained hands-on experience in multiple sectors including **Industrial Electronics, Pharmaceutical Manufacturing, Education, and Finance**.
+🎓 I hold a degree in **Web Design and Coding** from Anadolu University and bring 20+ years of hands-on technical experience across 
+the **Industrial Electronics, Finance, Healthcare, and Education** sectors. Throughout my career, 
+I’ve worked on automation systems, PLC programming, and BMS infrastructure—gaining a strong foundation in how hardware and software work together in real-world environments.
 
-💡 My background includes setting up, monitoring, testing, and commissioning automation systems. Through working on **PLC programming** and **BMS system design**, I developed a deep understanding of how hardware and software work together in real-world environments.
+---
 
-🔧 My transition into the **Software Testing** field was driven by my growing interest in system reliability and quality assurance. I’m currently attending a **QA Bootcamp**, where I lead a **team of 8 interns** in weekly Agile-based projects.
+### 🔁 From System Technician to QA Engineer
 
-### 👨‍💻 Current Activities
-- 🌱 Building test automation frameworks using **Java, JUnit, TestNG, and Cucumber**  
-- 🚀 Leading Agile ceremonies: **Sprint Planning, Daily Scrums, and Sprint Reviews, Retro**  
-- 📝 Creating and managing **User Stories and Tasks** in **JIRA**  
-- 🔄 Managing repositories, reviewing **Pull Requests**, and collaborating via **GitHub**  
-- 🧪 Designing and executing **manual and automation test cases**  
-- 👥 Developing leadership and team coordination skills in a real-world project setting  
-- 💬 Working with Selenium WebDriver for browser automation, using JUnit and TestNG as test frameworks, and implementing Behavior-Driven Development (BDD) with Cucumber 
-- 🔍 Continuously improving previous projects by refactoring and enhancing code
-- 💻 Database Testing using **MySQL** and **JDBC**
+My transition into **Software Testing** was a natural evolution of my commitment to system reliability and quality assurance. 
+I’ve completed a structured, project-based **QA Bootcamp**, where I led a team of 8 QA interns in Agile projects, tested real-world applications, and built robust test frameworks.
 
-### 🛠️ Upcoming Focus Areas
-- API Testing with **Postman** and **Rest Assured**    
-- CI/CD & Regression Testing using **Jenkins**  
-- Mobile Testing with **Appium**  
-- 📚 Preparing for the **ISTQB Foundation Level Certification**
+I’ve developed practical expertise across the entire software testing lifecycle, contributing to test planning, execution, automation, and reporting—using both black-box and white-box methods.
 
-🤝 I’m open to collaborating with **QA Engineers, Automation Testers, Developers, and Mentors** in the field.  
-📈 Motivated by learning, improving, and contributing to software quality at every stage of development.
+---
+
+### 🧰 Skills & Tools I Use
+
+- **Languages & Frameworks**: Java, Selenium WebDriver, TestNG, JUnit, Cucumber (BDD)  
+- **API Testing**: Postman, Rest Assured  
+- **Database Testing**: MySQL, JDBC  
+- **Mobile Testing**: Appium (Android)  
+- **Version Control & CI/CD**: Git, GitHub, Jenkins  
+- **Agile & Test Management**: JIRA, Scrum, SDLC & STLC  
+- **Testing Types**: Functional, Regression, Smoke, End-to-End, UI, API, DB Testing  
+- **Best Practices**: Page Object Model (POM), Data-Driven Testing, Modular Frameworks
+
+---
+
+### 🏁 Recent Milestones
+
+- ✅ Completed a 7-month QA Bootcamp with hands-on projects  
+- ✅ Led a QA team in designing and executing test cases for real-world web apps  
+- ✅ Passed all training modules for **ISTQB Foundation Level Certification**  
+- ✅ Integrated automated tests into CI/CD pipelines using Jenkins  
+- ✅ Contributed to reusable and scalable automation frameworks  
+
+---
+
+### 🚀 What’s Next?
+
+I’m focused on continuously improving my automation skills, contributing to high-quality software delivery, and collaborating with QA Engineers, SDETs, and Developers on meaningful projects.
+
+If you’re looking for a **detail-oriented**, **technically grounded**, and **growth-driven** junior QA professional — I’d love to connect.
+
+📫 Let's collaborate and build better software, together.
 
 ---
 

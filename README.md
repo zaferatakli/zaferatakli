@@ -3,6 +3,7 @@
 ---
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/zafer-atakli/)
+![Profile views](https://komarev.com/ghpvc/?username=zaferatakli&label=Profile%20views&color=0e75b6&style=for-the-badge)
 
 ---
 

@@ -45,6 +45,10 @@ I’ve developed practical expertise across the entire software testing lifecycl
 
 ---
 
+<img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="350"/>
+
+---
+
 ### 🚀 What’s Next?
 
 I’m focused on continuously improving my automation skills, contributing to high-quality software delivery, and collaborating with QA Engineers, SDETs, and Developers on meaningful projects.

@@ -45,7 +45,7 @@ I’ve developed practical expertise across the entire software testing lifecycl
 
 ---
 
-<img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="350"/> , <img src="https://media.giphy.com/media/XreQmk7ETCak0/giphy.gif" width="400"/>
+ <img src="https://media.giphy.com/media/XreQmk7ETCak0/giphy.gif" centre="0" width="400"/>
 
 
 ---

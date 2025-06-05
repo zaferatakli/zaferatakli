@@ -1,7 +1,8 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=20&duration=3000&pause=2500&color=FFAA00&vCenter=true&font=monospace&lines=Zafer+Atakli;QA+Automation+Test+Engineer;Welcome+to+my+GitHub+profile!+%F0%9F%91%8B)
 
 ---
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/zafer-atakli/)
 
 ---
 
@@ -45,7 +46,7 @@ I’ve developed practical expertise across the entire software testing lifecycl
 
 ---
 
- <img src="https://media.giphy.com/media/XreQmk7ETCak0/giphy.gif" centre="0" width="400"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 
 
 ---
@@ -83,6 +84,8 @@ If you’re looking for a **detail-oriented**, **technically grounded**, and **g
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
   <img src="https://img.shields.io/badge/Appium-9D4EDD?style=for-the-badge&logo=appium&logoColor=white" />
   <img src="https://img.shields.io/badge/RestAssured-6DB33F?style=for-the-badge&logo=restassured&logoColor=white" />
+  <img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white" />
+
 </p>
 
 

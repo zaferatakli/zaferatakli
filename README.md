@@ -10,7 +10,9 @@
 
 ## 👋 Hello, I'm Zafer Atakli
 
-🎓 I hold a degree in **Web Design and Coding** from Anadolu University and bring 20+ years of rich technical experience spanning the **Industrial Electronics, Finance, Healthcare, and Education** sectors. Over the years, I've worked on automation systems, PLC programming, and BMS infrastructure—gaining deep insight into how hardware and software intersect in real-world environments.
+🎓 I have a professional background rooted in industrial automation, having worked for many years in Turkey with SCADA, BMS, and PMS systems. I was actively involved in Siemens and Honeywell-based projects—testing systems on-site and developing user interfaces. This experience gave me a strong foundation in analytical thinking, attention to detail, and structured problem-solving.
+
+In 2022, I made a bold move to Australia, where I improved my English and transitioned into the world of software testing. I completed an intensive 7-month SDET program, and since then, I’ve been actively engaged in both manual and automated testing. I now work with tools such as Java, Selenium, TestNG, Cucumber, Postman, Appium, and Jenkins, and I currently lead a QA internship project with a team of 10 members.
 
 ---
 
@@ -44,7 +46,7 @@ I'm now equipped with strong practical experience across the **entire software t
 
 ---
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="800"/>
 
 ---
 

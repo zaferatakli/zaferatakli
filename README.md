@@ -41,7 +41,6 @@ I'm now equipped with strong practical experience across the **entire software t
 ### 🏁 Recent Highlights
 
 ✅ Led an Agile QA team in developing and executing test cases for production-level web applications  
-✅ Completed all training modules for **ISTQB Foundation Level Certification**  
 ✅ Integrated automation suites into Jenkins-based CI/CD pipelines  
 ✅ Contributed to scalable, reusable test automation frameworks  
 

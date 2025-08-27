@@ -34,6 +34,7 @@ I'm now equipped with strong practical experience across the **entire software t
 - **Project & Test Management:** JIRA, Scrum, SDLC, STLC  
 - **Testing Types:** Functional, Regression, Smoke, UI, API, DB, End-to-End  
 - **Best Practices:** Page Object Model (POM), Data-Driven Testing, Modular Framework Design
+- **ISTQB Certified Software QA Engineer**
 
 ---
 
